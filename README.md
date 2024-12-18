@@ -5,3 +5,5 @@ The work has been developed using a machine learning approach. From Chapter 8 yo
 
 Read my thesis if you are interested!
 
+
+![Machine_learning_results](https://github.com/user-attachments/assets/19f1e25f-a6ab-425d-bf0a-cc533d401955)
