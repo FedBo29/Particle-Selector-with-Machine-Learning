@@ -7,5 +7,5 @@ Read my thesis if you are interested!
 
 ![immagine](https://github.com/user-attachments/assets/348e5870-ae98-49d4-82a7-e253fdcd53c4)
 
+![immagine](https://github.com/user-attachments/assets/c5f579f5-133d-4070-a285-8fb4d8e8cb23)
 
-![Machine_learning_results](https://github.com/user-attachments/assets/19f1e25f-a6ab-425d-bf0a-cc533d401955)
