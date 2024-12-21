@@ -19,7 +19,8 @@ thesis are summarized and compared to previous analysis.
 
 Read my thesis if you are interested!
 
-![immagine](https://github.com/user-attachments/assets/348e5870-ae98-49d4-82a7-e253fdcd53c4)
-
-![immagine](https://github.com/user-attachments/assets/c5f579f5-133d-4070-a285-8fb4d8e8cb23)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/348e5870-ae98-49d4-82a7-e253fdcd53c4" alt="Immagine 1" width="45%">
+  <img src="https://github.com/user-attachments/assets/c5f579f5-133d-4070-a285-8fb4d8e8cb23" alt="Immagine 2" width="45%">
+</p>
 
